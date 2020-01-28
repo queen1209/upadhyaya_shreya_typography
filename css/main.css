@@ -1,0 +1,81 @@
+#background1
+{
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: 50% 100%; 
+}
+
+#background2
+{
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: 50% 100%; 
+}
+
+#background4
+{
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: 50% 100%; 
+}
+
+#font1
+{
+	font-family: 'Sigmar One', cursive;
+	font-size: 20px;
+}
+
+
+h1
+{
+    font-family: 'Shadows Into Light', cursive;	
+    font-size: 30px;
+}
+
+#font3
+{
+	font-family: 'Satisfy', cursive;
+	font-size: 20px;
+}
+
+#font4
+{
+	font-family: 'Lobster Two', cursive;
+	font-size: 20px;
+}
+
+#font5
+{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 20px;
+}
+
+#font6
+{
+	font-family: 'Molle', cursive;
+	font-size: 20px;
+}
+
+#font7
+{
+	font-family: 'Ruge Boogie', cursive;
+	font-size: 35px;
+}
+
+#font8
+{
+	font-family: 'Parisienne', cursive;
+	font-size: 35px;
+}
+
+#font9
+{
+	font-family: 'Baloo Bhai', cursive;
+	font-size: 20px;
+}
+
+#font10
+{
+	font-family: 'Marck Script', cursive;
+	font-size: 20px;
+}
